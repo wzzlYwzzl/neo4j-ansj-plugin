@@ -1,0 +1,12 @@
+*~
+\#*
+target
+*.swp
+.svn
+.project
+.classpath
+.settings
+.externalToolBuilders/
+.scala_dependencies
+.factorypath
+.DS_Store
