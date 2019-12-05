@@ -9,7 +9,7 @@ import org.neo4j.helpers.Service;
 public class AnsjNeo4jAnalyzer extends AnalyzerProvider{
 
 	    public AnsjNeo4jAnalyzer() {
-	        super("AnsjNeo4jAnalyzer");
+	        super("ansj");
 	    }
 
 	    @Override
